@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<header>
+<img src="logo.jpg">
+</header>
+</head>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td>Home</td>
+<td>Articles</td>
+<td>Habits</td>
+<td>Skills</td>
+<td>Quotes</td>
+<td>Books</td>
+
+
+
+
+</tr>
+</nav>
+</body>
+</html>
